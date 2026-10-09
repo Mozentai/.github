@@ -4,6 +4,6 @@
 
 ---
 
-Desktop software solutions. Built to run on your machine.
+**ezdown**, the downloader for any OS. Built on open-source [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
 [mozentai.com](https://mozentai.com)
