@@ -1,9 +1,9 @@
 # MOZENT∆I
 
-**CyberSec Specialists, Hackers @ Work**
+**Software for your computer.**
 
 ---
 
-Offensive security research, tooling, and ethical hacking.
+Desktop software solutions. Built to run on your machine.
 
 [mozentai.com](https://mozentai.com)
